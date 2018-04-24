@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormMain.resources
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+c:\users\admin\documents\visual studio 2013\Projects\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
