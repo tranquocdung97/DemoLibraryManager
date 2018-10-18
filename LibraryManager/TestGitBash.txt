@@ -1,6 +1,0 @@
-Hello! Dung
-<<<<<<< HEAD
-Hello! Server
-=======
-Hello! Client
->>>>>>> 697d7c3ee185bd6520cdfece5ad7831191eb391b
